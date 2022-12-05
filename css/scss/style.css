@@ -158,6 +158,27 @@ a, a:hover {
   color: #f8f9fa;
 }
 
+.sciam_inner .site-nav-ul > li > a {
+  color: #f8f9fa !important;
+}
+
+.sciam_inner .detail-v1 .detail-val, .sciam_inner .detail-v1 .detail-val a {
+  color: #f8f9fa !important;
+}
+
+.glucklich_inner {
+  background-color: #14966E;
+  color: #f8f9fa;
+}
+
+.glucklich_inner .site-nav-ul > li > a {
+  color: #f8f9fa !important;
+}
+
+.glucklich_inner .detail-v1 .detail-val, .glucklich_inner .detail-v1 .detail-val a {
+  color: #f8f9fa !important;
+}
+
 .onres24_inner {
   background-color: #F8F9FF;
 }
@@ -1701,8 +1722,8 @@ figure.dotted-bg:before {
 
 .portfolio-single-inner .heading-portfolio-single-h2 {
   margin-bottom: 40px;
-  font-size: 50px;
-  font-weight: 900;
+  font-size: 30px;
+  font-weight: 500;
 }
 
 @media (max-width: 991.98px) {
@@ -1825,11 +1846,11 @@ figure.dotted-bg:before {
 }
 
 .wezile_co--footer a {
-  color: rgba(255, 255, 255, 0.6);
+  color: #f04e2f;
 }
 
 .wezile_co--footer a:hover {
-  color: #fff;
+  color: #f04e2f;
 }
 
 .wezile_co--footer .footer-site-logo {

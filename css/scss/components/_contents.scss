@@ -465,8 +465,8 @@ figure{
 .portfolio-single-inner {
 	.heading-portfolio-single-h2 {
 		margin-bottom: 40px;
-		font-size: 50px;
-		font-weight: 900;
+		font-size: 30px;
+		font-weight: 500;
 		@include media-breakpoint-down(md) {
 			font-size: 30px;
 		}
@@ -580,9 +580,9 @@ figure{
 	padding: 30px !important;
 	height: 200px;
 	a {
-		color: rgba($white, .6);
+		color: #f04e2f;
 		&:hover {
-			color: $white;
+			color: #f04e2f;
 		}
 	}
 

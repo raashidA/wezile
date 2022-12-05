@@ -145,7 +145,7 @@ a {
 
 
 .btn-outline-white {
-	
+	 
 }
 
 
@@ -157,6 +157,27 @@ a {
 .sciam_inner{
 	background-color: #009E96;
 	color:$light;
+
+	.site-nav-ul > li > a{
+		color:$light !important;
+	}
+
+	.detail-v1 .detail-val, .detail-v1 .detail-val a {
+		color:$light !important;
+	}
+}
+
+.glucklich_inner{
+	background-color: #14966E;
+	color:$light;
+
+	.site-nav-ul > li > a{
+		color:$light !important;
+	}
+
+	.detail-v1 .detail-val, .detail-v1 .detail-val a {
+		color:$light !important;
+	}
 }
 
 .onres24_inner{
